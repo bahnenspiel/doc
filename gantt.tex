@@ -1,0 +1,93 @@
+\newenvironment{ganttap}[5]{
+\ganttgroup{#1}{2015-#3-#2}{2015-#5-#4} \ganttnewline
+}{
+\ganttnewline[thick]}
+
+
+\section{Zeitplanung}
+\resizebox{\textwidth}{!}{
+
+\begin{ganttchart}[
+x unit=1.2mm,
+y unit title=7mm,
+y unit chart=7mm,
+group label node/.append style={align=left, text width=15em},
+bar label node/.append style={align=left, text width=15em},
+milestone label node/.append style={align=left, text width=15em},
+vgrid={*4{draw=none},*1{dotted},*2{draw=none}},
+time slot format=isodate
+]{2015-04-22}{2015-09-20}
+\gantttitlecalendar{month=shortname} \\
+\gantttitle{1}{5}
+\gantttitlelist{2,...,22}{7}\\
+
+\ganttmilestone[inline=true]{Milestone 1}{2015-06-21}
+
+\ganttnewline[thick]
+
+\begin{ganttap}{1. Koordination}{22}{04}{29}{04}
+\ganttbar{1.1. Zeitplanung}{2015-04-22}{2015-04-26} \ganttnewline
+\ganttbar{1.2. Einrichten Template}{2015-04-22}{2015-04-26} \ganttnewline
+\ganttbar{1.3. Einrichten Repo}{2015-04-27}{2015-04-29} \ganttnewline
+\ganttbar{1.4. Einrichten IDE}{2015-04-27}{2015-04-29}
+\end{ganttap}
+
+\begin{ganttap}{2. Konzeption}{22}{04}{29}{04}
+\ganttbar{2.1. Spielidee}{2015-04-22}{2015-04-29} \ganttnewline
+\ganttbar{2.2. Design Document}{2015-04-22}{2015-04-26} \ganttnewline
+\ganttbar{2.3. Recherche Hardware}{2015-04-27}{2015-04-29}
+\end{ganttap}
+
+\begin{ganttap}{3. Recherche}{30}{04}{17}{05}
+\ganttbar{3.1. Spielideen}{2015-04-30}{2015-05-03} \ganttnewline
+\ganttbar{3.2. Eingabegeräte}{2015-05-04}{2015-05-10} \ganttnewline
+\ganttbar{3.3. Werkzeuge}{2015-05-11}{2015-05-17}
+\end{ganttap}
+
+\begin{ganttap}{4. Spielgrundgerüst}{30}{04}{12}{05}
+\ganttbar{4.1. Leveldesign}{2015-04-30}{2015-05-03} \ganttnewline
+\ganttbar{4.2. Tastatursteuerung}{2015-04-30}{2015-05-12} \ganttnewline
+\ganttbar{4.3. Graphik}{2015-04-30}{2015-05-12} \ganttnewline
+\ganttbar{4.4. GUI}{2015-04-30}{2015-05-12}
+\end{ganttap}
+
+\begin{ganttap}{5. Leveldesign}{18}{05}{15}{09}
+\ganttbar{5.1. Gesamtkonzept}{2015-05-18}{2015-05-24} \ganttnewline
+\ganttbar{5.2. Grundelemente}{2015-06-01}{2015-06-14}
+\ganttbar{}{2015-07-06}{2015-07-12} \ganttnewline
+\ganttbar{5.3. Levelerstellung}{2015-06-15}{2015-06-28}
+\ganttbar{}{2015-07-20}{2015-07-26}
+\ganttbar{}{2015-08-10}{2015-08-23} \ganttnewline
+\ganttbar{5.4. Testen \& Balancing}{2015-06-29}{2015-07-05}
+\ganttbar{}{2015-07-27}{2015-08-02}
+\ganttbar{}{2015-08-24}{2015-09-13}
+\end{ganttap}
+
+\begin{ganttap}{6. Steuerung}{13}{05}{23}{06}
+\ganttbar{6.1. Trittfrequenz}{2015-05-13}{2015-05-24} \ganttnewline
+\ganttbar{6.2. Neigung}{2015-05-25}{2015-06-14} \ganttnewline
+\ganttbar{6.3. Aktionsbutton}{2015-06-15}{2015-06-23}
+\end{ganttap}
+
+\begin{ganttap}{7. Gestaltung}{24}{06}{15}{09}
+\ganttbar{7.1. Models \& Texturen}{2015-06-24}{2015-07-05}
+\ganttbar{}{2015-07-13}{2015-07-26}
+\ganttbar{}{2015-08-03}{2015-08-16} \ganttnewline
+\ganttbar{7.2. Umgebung}{2015-08-24}{2015-09-06} \ganttnewline
+\ganttbar{7.3. Effekte}{2015-09-07}{2015-09-13}
+\end{ganttap}
+
+\begin{ganttap}{8. GUI}{29}{06}{19}{07}
+\ganttbar{8.1. Konzept}{2015-06-29}{2015-07-05} \ganttnewline
+\ganttbar{8.2. Gestaltung}{2015-07-06}{2015-07-19} \ganttnewline
+\ganttbar{8.3. Implementierung}{2015-07-06}{2015-07-19}
+\end{ganttap}
+
+\ganttgroup{9. Benutzerdokumentation}{2015-08-17}{2015-09-15}
+\ganttnewline[thick]
+\ganttgroup{10. Entwicklerdokumentation}{2015-04-30}{2015-09-15}
+
+
+\end{ganttchart}
+
+}
