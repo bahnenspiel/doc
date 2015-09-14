@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1442239794 "andere_spiele.tex" "andere_spiele.pdf" "andere_spiele" 1442239794
+  "/etc/texmf/web2c/texmf.cnf" 1442235589 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1392645748 31083 1dfd8bf685ce0009c40532fedf8a7c53 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1392645748 31083 1dfd8bf685ce0009c40532fedf8a7c53 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1442236996 1342096 a5dfd19da7765ea3ba27de76c5ce4f9a ""
+  "andere_spiele.aux" 1442239614 8 a94a2480d3289e625eea47cd1b285758 ""
+  "andere_spiele.tex" 1442239792 1180 b692b4ba5b242bf3ffd69232a8090fa3 ""
+  (generated)
+  "andere_spiele.log"
+  "andere_spiele.pdf"

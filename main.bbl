@@ -1,0 +1,42 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Beck(2000)]{xp}
+K.~Beck.
+\newblock \emph{Extreme Programming Explained: Embrace Change}.
+\newblock An Alan R. Apt Book Series. Addison-Wesley, 2000.
+\newblock ISBN 9780201616415.
+
+\bibitem[G\"{o}bel et~al.(2010)G\"{o}bel, Hardy, Wendel, Mehm, and
+  Steinmetz]{Gobel:2010:SGH:1873951.1874316}
+S.~G\"{o}bel, S.~Hardy, V.~Wendel, F.~Mehm, and R.~Steinmetz.
+\newblock Serious games for health: personalized exergames.
+\newblock In \emph{Proceedings of the international conference on Multimedia},
+  MM '10, pages 1663--1666, New York, NY, USA, 2010. ACM.
+\newblock ISBN 978-1-60558-933-6.
+\newblock \doi{10.1145/1873951.1874316}.
+\newblock URL \url{http://doi.acm.org/10.1145/1873951.1874316}.
+
+\bibitem[Sinclair et~al.(2007)Sinclair, Hingston, and
+  Masek]{Sinclair:2007:CDE:1321261.1321313}
+J.~Sinclair, P.~Hingston, and M.~Masek.
+\newblock Considerations for the design of exergames.
+\newblock In \emph{Proceedings of the 5th international conference on Computer
+  graphics and interactive techniques in Australia and Southeast Asia},
+  GRAPHITE '07, pages 289--295, New York, NY, USA, 2007. ACM.
+\newblock ISBN 978-1-59593-912-8.
+\newblock \doi{10.1145/1321261.1321313}.
+\newblock URL \url{http://doi.acm.org/10.1145/1321261.1321313}.
+
+\bibitem[Sinclair et~al.(2010)Sinclair, Hingston, Masek, and Nosaka]{5716909}
+J.~Sinclair, P.~Hingston, M.~Masek, and K.~Nosaka.
+\newblock Testing an exergame for effectiveness and attractiveness.
+\newblock In \emph{Games Innovations Conference (ICE-GIC), 2010 International
+  IEEE Consumer Electronics Society's}, pages 1 --8, dec. 2010.
+\newblock \doi{10.1109/ICEGIC.2010.5716909}.
+
+\end{thebibliography}

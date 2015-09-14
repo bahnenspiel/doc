@@ -1,0 +1,9 @@
+PWD /media/aschmitt/Daten/Uni/Master/Semester 3/Serious Games PP/git/doc
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT content.tex
+OUTPUT content.log
+INPUT einleitung.tex
+INPUT einleitung.tex
