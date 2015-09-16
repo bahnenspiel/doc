@@ -1,0 +1,113 @@
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einleitung}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Projektdefinition}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Zielsetzung und Anforderungen}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Features}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Priorisierung}{3}{section.2.3}
+\contentsline {chapter}{\numberline {3}Konzept}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Architektur}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}Game Design Document}{4}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Spielobjekte}{4}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}User Interface}{4}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Sounds}{4}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Steuerung}{5}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Levels}{5}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}Hardware}{5}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Smovetec}{5}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Texas Instruments SensorTag}{5}{subsection.3.3.2}
+\contentsline {chapter}{\numberline {4}Recherche}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}\IeC {\"A}hnliche Spielideen}{7}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Skyroads}{7}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Audiosurf}{7}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Spiele mit Fahrradergometern}{8}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Atari Puffer}{8}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Thera Trainer}{9}{subsection.4.2.2}
+\contentsline {paragraph}{Igel:}{9}{paragraph*.13}
+\contentsline {paragraph}{Auto:}{9}{paragraph*.14}
+\contentsline {subsection}{\numberline {4.2.3}Jeff Sinclaire - Edith Cowan University}{9}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Ergo Active}{9}{subsection.4.2.4}
+\contentsline {paragraph}{Taubenjagd:}{10}{paragraph*.16}
+\contentsline {paragraph}{Film:}{10}{paragraph*.17}
+\contentsline {paragraph}{Balance:}{10}{paragraph*.18}
+\contentsline {chapter}{\numberline {5}Methoden und Vorgehen}{12}{chapter.5}
+\contentsline {paragraph}{Controlling}{12}{paragraph*.20}
+\contentsline {paragraph}{\IeC {\quotedblbase }lessons-learned\IeC {\textquotedblleft }}{12}{paragraph*.21}
+\contentsline {chapter}{\numberline {6}Planung}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}Projektplanung}{14}{section.6.1}
+\contentsline {section}{\numberline {6.2}Zeitplanung}{15}{section.6.2}
+\contentsline {section}{\numberline {6.3}Meilensteine}{16}{section.6.3}
+\contentsline {paragraph}{Projektdefinition -- 29.4.}{16}{paragraph*.22}
+\contentsline {paragraph}{Mock-up -- 13.5.}{16}{paragraph*.23}
+\contentsline {paragraph}{Alpha-Version -- 23.6.}{16}{paragraph*.24}
+\contentsline {paragraph}{Beta-Version -- 19.7.}{16}{paragraph*.25}
+\contentsline {paragraph}{Pre-finale Ausarbeitung -- 2.9.}{16}{paragraph*.26}
+\contentsline {paragraph}{Finale Version -- 15.9.}{16}{paragraph*.27}
+\contentsline {section}{\numberline {6.4}Arbeitspakte}{16}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Koordination und Organisation}{16}{subsection.6.4.1}
+\contentsline {paragraph}{Zielstellung}{16}{paragraph*.28}
+\contentsline {paragraph}{Beschreibung}{16}{paragraph*.29}
+\contentsline {paragraph}{Rolle der Beteiligten}{17}{paragraph*.30}
+\contentsline {paragraph}{Deliverables}{17}{paragraph*.31}
+\contentsline {paragraph}{Meilensteine}{17}{paragraph*.32}
+\contentsline {subsection}{\numberline {6.4.2}Konzeption und Findung der Spielidee}{17}{subsection.6.4.2}
+\contentsline {paragraph}{Zielstellung}{17}{paragraph*.33}
+\contentsline {paragraph}{Beschreibung}{17}{paragraph*.34}
+\contentsline {paragraph}{Rolle der Beteiligten}{17}{paragraph*.35}
+\contentsline {paragraph}{Deliverables}{17}{paragraph*.36}
+\contentsline {paragraph}{Meilensteine}{17}{paragraph*.37}
+\contentsline {subsection}{\numberline {6.4.3}Recherche}{17}{subsection.6.4.3}
+\contentsline {paragraph}{Zielstellung}{17}{paragraph*.38}
+\contentsline {paragraph}{Beschreibung}{18}{paragraph*.39}
+\contentsline {paragraph}{Rolle der Beteiligten}{18}{paragraph*.40}
+\contentsline {paragraph}{Deliverables}{18}{paragraph*.41}
+\contentsline {paragraph}{Meilensteine}{18}{paragraph*.42}
+\contentsline {subsection}{\numberline {6.4.4}Entwicklung des Spielgrundger\IeC {\"u}sts}{18}{subsection.6.4.4}
+\contentsline {paragraph}{Zielstellung}{18}{paragraph*.43}
+\contentsline {paragraph}{Beschreibung}{18}{paragraph*.44}
+\contentsline {paragraph}{Rolle der Beteiligten}{18}{paragraph*.45}
+\contentsline {paragraph}{Deliverables}{18}{paragraph*.46}
+\contentsline {paragraph}{Meilensteine}{18}{paragraph*.47}
+\contentsline {subsection}{\numberline {6.4.5}Leveldesign}{18}{subsection.6.4.5}
+\contentsline {paragraph}{Zielstellung}{19}{paragraph*.48}
+\contentsline {paragraph}{Beschreibung}{19}{paragraph*.49}
+\contentsline {paragraph}{Rolle der Beteiligten}{19}{paragraph*.50}
+\contentsline {paragraph}{Deliverables}{19}{paragraph*.51}
+\contentsline {paragraph}{Meilensteine}{19}{paragraph*.52}
+\contentsline {subsection}{\numberline {6.4.6}Steuerung}{19}{subsection.6.4.6}
+\contentsline {paragraph}{Zielstellung}{19}{paragraph*.53}
+\contentsline {paragraph}{Beschreibung}{19}{paragraph*.54}
+\contentsline {paragraph}{Rolle der Beteiligten}{19}{paragraph*.55}
+\contentsline {paragraph}{Deliverables}{19}{paragraph*.56}
+\contentsline {paragraph}{Meilensteine}{20}{paragraph*.57}
+\contentsline {subsection}{\numberline {6.4.7}Audiovisuelle Gestaltung}{20}{subsection.6.4.7}
+\contentsline {paragraph}{Zielstellung}{20}{paragraph*.58}
+\contentsline {paragraph}{Beschreibung}{20}{paragraph*.59}
+\contentsline {paragraph}{Rolle der Beteiligten}{20}{paragraph*.60}
+\contentsline {paragraph}{Deliverables}{20}{paragraph*.61}
+\contentsline {paragraph}{Meilensteine}{20}{paragraph*.62}
+\contentsline {subsection}{\numberline {6.4.8}GUI}{20}{subsection.6.4.8}
+\contentsline {paragraph}{Zielstellung}{20}{paragraph*.63}
+\contentsline {paragraph}{Beschreibung}{20}{paragraph*.64}
+\contentsline {paragraph}{Rolle der Beteiligten}{21}{paragraph*.65}
+\contentsline {paragraph}{Deliverables}{21}{paragraph*.66}
+\contentsline {paragraph}{Meilensteine}{21}{paragraph*.67}
+\contentsline {subsection}{\numberline {6.4.9}Benutzerdokumentation}{21}{subsection.6.4.9}
+\contentsline {paragraph}{Zielstellung}{21}{paragraph*.68}
+\contentsline {paragraph}{Beschreibung}{21}{paragraph*.69}
+\contentsline {paragraph}{Rolle der Beteiligten}{21}{paragraph*.70}
+\contentsline {paragraph}{Deliverables}{21}{paragraph*.71}
+\contentsline {paragraph}{Meilensteine}{21}{paragraph*.72}
+\contentsline {subsection}{\numberline {6.4.10}Entwicklerdokumentation}{21}{subsection.6.4.10}
+\contentsline {paragraph}{Zielstellung}{21}{paragraph*.73}
+\contentsline {paragraph}{Beschreibung}{21}{paragraph*.74}
+\contentsline {paragraph}{Rolle der Beteiligten}{22}{paragraph*.75}
+\contentsline {paragraph}{Deliverables}{22}{paragraph*.76}
+\contentsline {paragraph}{Meilensteine}{22}{paragraph*.77}
+\contentsline {chapter}{\numberline {7}Umsetzung}{23}{chapter.7}
+\contentsline {section}{\numberline {7.1}Steuerung}{23}{section.7.1}
+\contentsline {section}{\numberline {7.2}Leveleditor}{23}{section.7.2}
+\contentsline {section}{\numberline {7.3}Szenen}{24}{section.7.3}
+\contentsline {chapter}{\numberline {8}Benutzerdokumentation}{25}{chapter.8}
+\contentsline {chapter}{\numberline {9}Zusammenfassung und Ausblick}{26}{chapter.9}
+\contentsline {chapter}{Literaturverzeichnis}{26}{dummy.1}
